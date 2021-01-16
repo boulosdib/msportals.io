@@ -49,7 +49,13 @@
       },
       {
         "portalName": "Microsoft Endpoint Manager Admin Console",
-        "primaryURL": "https://endpoint.microsoft.com"
+        "primaryURL": "https://endpoint.microsoft.com",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/memac"
+          }
+        ]
       },
       {
         "portalName": "Microsoft Endpoint Manager Admin Console",
@@ -94,6 +100,16 @@
       {
         "portalName": "MileIQ Admin Center",
         "primaryURL": "https://admin.mileiq.com"
+      },
+      {
+        "portalName": "My Staff (preview)",
+        "primaryURL": "https://mystaff.microsoft.com",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mystaff"
+          }
+        ]
       },
       {
         "portalName": "OneDrive Admin Center",
@@ -395,6 +411,10 @@
         "primaryURL": "https://status.azure.com"
       },
       {
+        "portalName": "Azure Lighthouse Blade",
+        "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade"
+      },
+      {
         "portalName": "Become Microsoft Certified",
         "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI/",
         "secondaryURLs": [
@@ -445,6 +465,11 @@
       {
         "portalName": "Microsoft Startups",
         "primaryURL": "https://portal.startups.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft 365 Lighthouse",
+        "primaryURL": "https://lighthouse.microsoft.com/",
+        "note": "Private Preview"
       },
       {
         "portalName": "Office 365 Anti-Spam IP Delist Portal",

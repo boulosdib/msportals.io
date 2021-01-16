@@ -23,7 +23,7 @@
       {
         "portalName": "Dynamics 365 Instance Administration",
         "primaryURL": "https://port.crm9.dynamics.com/G/Instances/InstancePicker.aspx",
-        "note": "GCC"
+        "note": "GCC Moderate"
       },
       {
         "portalName": "Dynamics 365 Instance Administration",
@@ -51,11 +51,6 @@
         "note": "GCC High"
       },
       {
-        "portalName": "OneDrive admin center",
-        "primaryURL": "https://admin.onedrive.us/",
-        "note": "GCC High"
-      },
-      {
         "portalName": "Exchange Admin Center",
         "primaryURL": "https://outlook.office365.us/ecp",
         "note": "GCC High"
@@ -64,6 +59,11 @@
         "portalName": "Microsoft Teams Admin Center",
         "primaryURL": "https://admin.gov.teams.microsoft.us/dashboard",
         "note": "GCC High"
+      },
+      {
+        "portalName": "Microsoft Defender for Endpoint on MAG",
+        "primaryURL": "https://gcc.securitycenter.microsoft.us",
+        "note": "GCC Moderate"
       }
     ]
   }
